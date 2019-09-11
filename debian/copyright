@@ -1,10 +1,10 @@
-Format: http://www.debian.org/doc/packaging-manuals/Copyright 1-2019 The Wazo Authors  (see the AUTHORS file)
-Upstream-Name: hyper
-Source: https://github.com/Lukasa/hyper.git
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rfc3986
+Source: https://github.com/python-hyper/rfc3986
 
 Files: *
-Copyright: 2014 Cory Benfield, Google Inc
-License: MIT
+Copyright: Copyright 2014 Ian Cordasco, Rackspace
+License: Apache-2.0
 
 Files: debian/*
 Copyright: 2019 The Wazo Authors  (see the AUTHORS file)
