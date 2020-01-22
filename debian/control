@@ -16,3 +16,4 @@ Depends: ${misc:Depends},
          python3-idna
 Description: rfc3986 for Python.
  .
+ A Python implementation of RFC 3986 including validation and authority parsing.
